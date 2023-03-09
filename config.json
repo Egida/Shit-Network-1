@@ -1,0 +1,13 @@
+{
+    "Server":       "127.0.0.1",
+	"Port":          "1234",
+
+	"BotServer": "127.0.0.1",
+	"BotPort": "9999",
+
+	"AdmLogin": "ADMIN LOGIN",
+
+	"BotToken":      "TELEGRAM BOT TOKEN",
+	"ChatId": "TELEGRAM CHAT ID",
+	"Logging": true
+}
